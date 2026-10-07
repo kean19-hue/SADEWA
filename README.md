@@ -111,7 +111,7 @@
                 <span>SADEWA — Sistem Aplikasi Daur-ulang & Eko-pelayanan Wilayah Antar-desa</span>
             </span>
             <h1 class="text-4xl sm:text-5xl font-extrabold text-slate-900 tracking-tight leading-tight">
-                Kelola Sampah, Jaga Desa, Bersama.
+                Solusi Digital Untuk Desa Bebas Sampah.
             </h1>
             <p class="mt-4 text-base sm:text-lg text-slate-600 max-w-2xl mx-auto">
                 Platform SADEWA menghadirkan pelayanan kebersihan terpadu tingkat desa di Kabupaten Bogor. Pilih wilayah Anda untuk memantau jadwal, kirim laporan, dan kumpulkan poin apresiasi.
