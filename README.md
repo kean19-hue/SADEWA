@@ -94,7 +94,7 @@
                 <p class="text-xs text-slate-500">Sistem Daur-Ulang & Eko-Pelayanan Kab. Bogor</p>
             </div>
 
-            <form id="login-form" onsubmit="handleLogin(event)" class="space-y-4">
+            <form id="login-form" onsubmit="handleLogin(admin@gmail.com)" class="space-y-4">
                 <!-- ERROR MESSAGE ALERT BOX -->
                 <div id="login-error-alert" class="hidden p-3 bg-rose-50 border border-rose-200 text-rose-700 text-xs rounded-xl font-medium flex items-center space-x-2">
                     <i data-lucide="alert-circle" class="w-4 h-4 shrink-0 text-rose-600"></i>
